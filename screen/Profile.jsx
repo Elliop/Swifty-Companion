@@ -23,7 +23,7 @@ export const Profile = ({ route }) => {
 
   useEffect(() => {
     setSelectedCursus(
-      userData.cursus_users[userData.cursus_users.length - 1].cursus_id
+      userData?.cursus_users[userData?.cursus_users?.length - 1]?.cursus_id
     );
     if (level?.toString().split(".")[1])
       setPercentage(level?.toString().split(".")[1]);
