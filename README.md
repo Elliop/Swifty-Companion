@@ -16,7 +16,7 @@ A React Native mobile application for viewing 42 School student profiles. Search
 
 ## Screenshots
 
-| Home Screen | Profile Overview | Projects View | Skills View |
+| Home Screen | Profile Overview | Projects View | Switch cursus |
 |-------------|------------------|---------------|-------------|
 | ![Home](screenshots/home-screen.png) | ![Profile](screenshots/profile-overview.png) | ![Projects](screenshots/profile-projects.png) | ![Skills](screenshots/profile-skills.png) |
 
