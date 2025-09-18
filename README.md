@@ -59,11 +59,6 @@ API_UID=your_api_uid
 API_SECRET=your_api_secret
 ```
 
-4. Start the development server:
-```bash
-npm start
-```
-
 ## Usage
 
 1. **Launch the app** and you'll see the search screen
